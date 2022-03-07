@@ -16,6 +16,12 @@ body{
   background-color: rgb(142, 154, 165);
 }
 
+.heading{
+    background: linear-gradient(to right, yellow 0%, red 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 h1{
   font-size: 50px;
   font-weight: 800;
